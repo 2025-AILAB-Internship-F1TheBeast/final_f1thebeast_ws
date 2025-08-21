@@ -1,0 +1,24 @@
+[submodule "src/base_ws/f1tenth_base_setup"]
+	path = src/base_ws/f1tenth_base_setup
+	url = https://github.com/2025-AILAB-Internship-F1TheBeast/f1tenth_base_setup.git
+[submodule "src/base_ws/basecode_follow_the_gap"]
+	path = src/base_ws/basecode_follow_the_gap
+	url = https://github.com/2025-AILAB-Internship-F1TheBeast/basecode_follow_the_gap.git
+[submodule "src/base_ws/base_f1tenth_gym_ros"]
+	path = src/base_ws/base_f1tenth_gym_ros
+	url = https://github.com/2025-AILAB-Internship-F1TheBeast/base_f1tenth_gym_ros.git
+[submodule "src/perception_ws/particle_filter_cpp"]
+	path = src/perception_ws/particle_filter_cpp
+	url = https://github.com/2025-AILAB-Internship-F1TheBeast/particle_filter_cpp.git
+[submodule "src/perception_ws/obstacle_detection_pkg"]
+	path = src/perception_ws/obstacle_detection_pkg
+	url = https://github.com/2025-AILAB-Internship-F1TheBeast/obstacle_detection_pkg.git
+[submodule "src/planning_ws/local_planner_pkg"]
+	path = src/planning_ws/local_planner_pkg
+	url = https://github.com/2025-AILAB-Internship-F1TheBeast/local_planner_pkg.git
+[submodule "src/planning_ws/planning_custom_msgs"]
+	path = src/planning_ws/planning_custom_msgs
+	url = https://github.com/2025-AILAB-Internship-F1TheBeast/planning_custom_msgs.git
+[submodule "src/control_ws/lattice_path_follower_f1tenth"]
+	path = src/control_ws/lattice_path_follower_f1tenth
+	url = https://github.com/2025-AILAB-Internship-F1TheBeast/lattice_path_follower_f1tenth.git
