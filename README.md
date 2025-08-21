@@ -27,14 +27,16 @@ ros2 launch obstacle_detection_pkg obstacle_detection.launch.py    # Obstacle de
 Path planning and trajectory generation.
 
 ```bash
-ros2 launch local_planner_pkg local_planner.launch.py sim_mode:=true    # Local path planning
+ros2 launch local_planner_pkg local_planner.launch.py                   # Local path planning
+ros2 launch local_planner_pkg local_planner.launch.py sim_mode:=true    # For simulation mode
 ```
 
 ### Control
 Vehicle control and path following.
 
 ```bash
-ros2 launch path_follower_pkg path_follower.launch.py sim_mode:=true    # Path following controller
+ros2 launch path_follower_pkg path_follower.launch.py                   # Path following controller
+ros2 launch path_follower_pkg path_follower.launch.py sim_mode:=true    # For simulation mode
 ```
 
 ### Simulation
